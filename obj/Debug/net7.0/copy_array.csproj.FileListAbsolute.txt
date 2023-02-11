@@ -1,0 +1,15 @@
+C:\Users\alex\geekbrains\SEMINAR5\copy_array\obj\Debug\net7.0\copy_array.csproj.AssemblyReference.cache
+C:\Users\alex\geekbrains\SEMINAR5\copy_array\obj\Debug\net7.0\copy_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\geekbrains\SEMINAR5\copy_array\obj\Debug\net7.0\copy_array.AssemblyInfoInputs.cache
+C:\Users\alex\geekbrains\SEMINAR5\copy_array\obj\Debug\net7.0\copy_array.AssemblyInfo.cs
+C:\Users\alex\geekbrains\SEMINAR5\copy_array\obj\Debug\net7.0\copy_array.csproj.CoreCompileInputs.cache
+C:\Users\alex\geekbrains\SEMINAR5\copy_array\bin\Debug\net7.0\copy_array.exe
+C:\Users\alex\geekbrains\SEMINAR5\copy_array\bin\Debug\net7.0\copy_array.deps.json
+C:\Users\alex\geekbrains\SEMINAR5\copy_array\bin\Debug\net7.0\copy_array.runtimeconfig.json
+C:\Users\alex\geekbrains\SEMINAR5\copy_array\bin\Debug\net7.0\copy_array.dll
+C:\Users\alex\geekbrains\SEMINAR5\copy_array\bin\Debug\net7.0\copy_array.pdb
+C:\Users\alex\geekbrains\SEMINAR5\copy_array\obj\Debug\net7.0\copy_array.dll
+C:\Users\alex\geekbrains\SEMINAR5\copy_array\obj\Debug\net7.0\refint\copy_array.dll
+C:\Users\alex\geekbrains\SEMINAR5\copy_array\obj\Debug\net7.0\copy_array.pdb
+C:\Users\alex\geekbrains\SEMINAR5\copy_array\obj\Debug\net7.0\copy_array.genruntimeconfig.cache
+C:\Users\alex\geekbrains\SEMINAR5\copy_array\obj\Debug\net7.0\ref\copy_array.dll
